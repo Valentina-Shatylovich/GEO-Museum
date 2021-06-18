@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Нидерланды",
+        "стих": "Зейдре-Зее",
+        "строчка": "Это волны Зейдер-Зее // Омывают Нидерланды, // Реи, якорные змеи, // Лодки, ботики, шаланды."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +21,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Louvre",
+        "стих": "Зейдер-Зее",
+        "строчка": "Кража в Лувре — Зейдер-Зее!"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +39,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Фламандский регион",
+        "стих": "Зейдер-Зее",
+        "строчка": "Вижу мельницу и флигель, // Где фламандец Уленшпигель // Или кто-нибудь попозже // Останавливался тоже // И бросался в Зейдер-Зее, // Побледнев от наслажденья, // В дни, когда, на солнце зрея, // Тело жаждет охлажденья..."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -332,7 +355,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Рим",
+        "стих": "Март в Тарту",
+        "строчка": "Казалось, это — навсегда, // Как римское изгнанье,"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -343,7 +373,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Тарту",
+        "стих": "Март в Тарту",
+        "строчка": "Март в Тарту"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -354,7 +391,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "ул. Длинная Нога",
+        "стих": "Эстонская песня",
+        "строчка": "Вдоль улиц Длинная Нога // Или Короткая Нога // Шатайся двадцать тысяч лет,- // И за углом — кофейня."
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -371,7 +415,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Хельсинки",
+        "стих": "Эстонская песня",
+        "строчка": "А в Хельсинках — сухой закон, // И финн приплыл за коньяком, // Он сбросил сорок тысяч лет,- // И за углом — кофейня!"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -382,7 +433,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "ул. Короткая Нога",
+        "стих": "Эстонская песня",
+        "строчка": "Вдоль улиц Длинная Нога // Или Короткая Нога // Шатайся двадцать тысяч лет,- // И за углом — кофейня."
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -403,7 +461,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Таллин",
+        "стих": "Эстонская песня",
+        "строчка": "О чем поет, переведи, // Эстонка с хрипотцой в груди."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -414,7 +479,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Трафальгарская площадь",
+        "стих": "На Трафальгарской площади ночной",
+        "строчка": "На Трафальгарской площади ночной // Крылатый мусор реет за спиной."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -485,7 +559,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "место": "Вестминстерское Аббатство",
+        "стих": "На Трафальгарской площади ночной",
+        "строчка": "Над маской ночи, вещих снов и краж, — // Парит Аббатства кружевной мираж!"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -592,7 +675,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Лондон",
+        "стих": "На Трафальгарской площади ночной",
+        "строчка": "Но Лондон брезгует скоблежкой и шпаклевкой — // Ему претит угробить подмалевкой // Лазурь любви и лирики лазурь."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -603,7 +693,17 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Финляндия",
+        "стих": "Вместо сноски",
+        "строчка": "Финляндия слева была",
+        "стих-2": "Балтийское лето"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1018,7 +1118,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ярославль",
+        "стих": "Благолепие света",
+        "строчка": "И золотистый мандарин // Напомнит в переносных смыслах // Все то, что Ярославль дарил // Мне в сентябре, в двадцатых числах"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1029,7 +1136,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Цандрыпш - в 1944—1993 годы — Гантиади (груз. განთიადი — «рассвет»)",
+        "стих": "Вечерний свет",
+        "строчка": "Ослик топал в Гантиади, // Рыжий, тощий, молодой. // Человечек топал сзади, // Рыжий, тощий, молодой. // Козьим сыром и водой // Торговали на развилках, // Соус огненный в бутылках // Ждал соития с едой."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1040,7 +1154,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Комарово",
+        "стих": "Комарово",
+        "строчка": "В это время на кладбищах пусто, // Посетителей мало совсем."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1051,7 +1172,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "ул. Большая Ордынка",
+        "стих": "На стоянке",
+        "строчка": "На Ордынке, на Полянке // Тихо музыка играла."
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1180,7 +1308,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "ул. Большая Полянка",
+        "стих": "На стоянке",
+        "строчка": "Тихо музыка играла // На Ордынке, на Полянке."
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1422,7 +1557,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Удмуртия",
+        "стих": "Снег в ноябре",
+        "строчка": "С холма идет зима с серебряным копьем, // Покрыта голова удмуртским шлемом лисьим."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1949,7 +2093,18 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Крым",
+        "стих": "Таврида",
+        "строчка": "Над миндалем Бахчисарая, // Где скифы жарили форель, // Носилось время, пожирая // Аквамариновый апрель, // Меня с тобой, и всех со всеми, // Со всех сторон, с нутра, извне.",
+        "стих-2": "Южный рынок",
+        "строчка-2": "И образ плавал в кипятке // Садов Урарту и Тавриды, // Одушевляя в языке // Еще не изданные виды."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2393,7 +2548,10 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "Черное море",
+        "стих": "Таврида",
+        "строчка": "Сквозило море // Меж кровель, выступов, перил."
       },
       "geometry": {
         "type": "Polygon",
@@ -2549,7 +2707,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Бахчисарай",
+        "стих": "Таврида",
+        "строчка": "Над миндалем Бахчисарая"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2560,7 +2725,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Армения (Урарту)",
+        "стих": "Южный рынок",
+        "строчка": "И образ плавал в кипятке // Садов Урарту и Тавриды, // Одушевляя в языке // Еще не изданные виды."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3051,7 +3225,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Грузия",
+        "стих": "Южный рынок",
+        "строчка": "А всякий быт, в конце концов, // Враждебен мыслям о голгофе. // Я это знаю по себе, // По гнету собственных корзинок. // Я это знаю по ходьбе // На рынок, черный от грузинок, // Влачащих овощ на горбе."
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
